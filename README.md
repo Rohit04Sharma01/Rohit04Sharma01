@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit04sharma01&label=Profile%20views&color=0e75b6&style=flat" alt="rohit04sharma01" /> </p>
 
-- 🔭 I’m currently working on **Duolingo Clone**
+- 🔭 I’m currently working on **Loom Clone**
 
 - 🌱 I’m currently learning **MERN stack**
 
